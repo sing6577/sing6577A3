@@ -1,0 +1,1 @@
+.gridArea{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto;grid-template-areas:"bInfo pic";grid-gap:10px}.bInfo{grid-area:bInfo;background-color:#0ff}.pic{grid-area:pic;background-color:#0ff}.header1,.header3{text-align:center;color:navy}
